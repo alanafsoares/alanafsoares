@@ -22,3 +22,5 @@
    ##
 
  ![ezgiftwo](https://user-images.githubusercontent.com/68574175/139342079-bf3278b6-9a49-4e96-b79e-2472d8e14973.gif)
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
