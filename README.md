@@ -1,9 +1,9 @@
 ### Hi there 👋 
-<i>I'm Alana, or Lana if you might, I'm a front-end developer with a passion for coding and design.</i>
+<i>I'm Alana, or Lana if you might, I'm a front-end developer with a passion for coding and design.</i><br>
 <div align="center">
   <a href="https://github.com/alanafsoares">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=alanafsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanafsoares&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api?username=alanafsoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanafsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Alana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
