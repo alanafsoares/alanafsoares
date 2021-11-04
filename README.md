@@ -6,6 +6,7 @@
   <img height="180em" align="right" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanafsoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,7 +21,6 @@
 </div>
     
    ##
-
- ![ezgiftwo](https://user-images.githubusercontent.com/68574175/139342079-bf3278b6-9a49-4e96-b79e-2472d8e14973.gif)
   
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+ ![16895b231b6da505e2e4acef02a3c1fe](https://user-images.githubusercontent.com/68574175/140414962-dfd9df21-7884-4742-9efb-75cd046bd3b3.gif)
