@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<i>I'm Alana, or Lana if you might, I'm a new developer with a passion for coding and to keep learning through process.</i><br>
+<i>I'm Alana, or Lana if you might, I'm a new developer with a passion for coding and learning everyday through process.</i><br>
 <a href="https://github.com/alanafsoares">
   <img align="center" height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=alanafsoares&count_private=true&show_icons=true&theme=dracula&include_all_commits" />
 </a>
