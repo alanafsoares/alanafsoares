@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<i>I'm Alana, or Lana if you might, I'm a new developer with a passion for coding and learning everyday through process.</i><br>
+<i>I'm Alana, or Lana if you might, I'm a new developer with a passion for coding and learning everyday.</i><br>
 <a href="https://github.com/alanafsoares">
   <img align="center" height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=alanafsoares&count_private=true&show_icons=true&theme=dracula&include_all_commits" />
 </a>
@@ -10,6 +10,7 @@
   <img align="center" alt="Alana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alana-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   </div>
   
   ##
